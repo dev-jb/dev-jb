@@ -1,4 +1,7 @@
+![](https://komarev.com/ghpvc/?username=dev-jb)
+
 ### Hi there 👋
+I am a experienced private/public blockchain developer with 4+ year experience on developing various blockchain applications and 2+ years on developing web based software applications.
 
 <!--
 **dev-jb/dev-jb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
